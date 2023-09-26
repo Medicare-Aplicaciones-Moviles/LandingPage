@@ -1,2 +1,2 @@
-# LandingPage-DocSeeker
-Landing Page for our main product "DocSeeker"
+# LandingPage-MediCare
+Landing Page for our main product "MediCare"
